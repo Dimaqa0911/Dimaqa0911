@@ -3,7 +3,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я начинающий QA-инженер.
+Я начинающий QA инженер.
 
 - 📫 Как связаться со мной: [![Yandex Badge](https://img.shields.io/badge/-Яндекс-red?style=flat&logo=Ya&logoColor=white)](mailto:Levsha.Dima0911@yandex.ru) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dimaqa0911)
 
@@ -27,7 +27,7 @@
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Devtools" alt="Devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAgCAMAAAAynjhNAAAASFBMVEVHcEwQMkcMMUcHL0gAK0kELUcHMEgKMUcUM0YrQ0FnbDZ5eTKSjClNWTwALUfHtBrmzAv/4QDXwRGlmib93QDz1gK4qR4AF0v702fzAAAAD3RSTlMASXnG8P/epSj///////iOca1ZAAABjElEQVR4AX1TB4LEIAhMIxtUTpGg///pQbZ4dd2aTGYY2jTOvKwbwH5bjun3WXbAEFMKhB/r/AM8dgi58HWqANy+U4Eq8/k4zAL78RWNauD9Af/iigOfIV5gFvsqov5Awf0ZF6KzGvZOWaBDKBf/Ef+GxVBFlIZgJmJPLiYw36WbX5UuplyrxaZwmaDV4RXZQlXq1T1ZYE5dXD47/diMlU1VLkfULA4BBj3Zoy9orACS2WAj2i9ri/6bNjNG5tKoJlG4QODqRMZg6h/HtEbm1s2dQuQIlbNXgQkLV5ynLbEHU5ZeS0/MHLsaQfz2MoHBnM12IA2dUi7FtCLoOeBmMAXNEcE1ZMB3cVRnswVOJtWGuFuT3vwrsyIqh64vayOxE7AINBYTGInN97KkbMIAJNTDOcryKCp5UYs5AxQdRX20hNVbcnVMPXEp+mjJaGh7NTSOhv4ah/x9HGyYgsP572Eao1iF/UuvWLi/GeSM3wed8pc1OBMY+n2JqP29RGMFKaT4ewXHAu+wfV/gT0IwLFlq4RO2AAAAAElFTkSuQmCC" title="Soapui" alt="Soapui" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Rv4zlI7o7WdBMnT_ESc-4WiFU80HM6bJJkgc-JgAH2Lhc3WUl2A5kXisDABKd4rfJyE&usqp=CAU" title="Soapui" alt="Soapui" width="40" height="40"/>&nbsp
 </div>
 
 ---
